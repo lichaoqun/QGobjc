@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DF136564-EB1F-456C-AFF4-BFA623915F76"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8ACD1A1D-07D0-4C6F-AF13-0DF059448C12"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../runtime/NSObject.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "327"
+            endingLineNumber = "327"
+            landmarkName = "storeWeak(location, newObj)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "8ACD1A1D-07D0-4C6F-AF13-0DF059448C12 - 5f147e9127396e54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)1, ((anonymous namespace)::HaveNew)1, (CrashIfDeallocating)1&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "327"
+                  endingLineNumber = "327"
+                  offsetFromSymbolStart = "231">
+               </Location>
+               <Location
+                  uuid = "8ACD1A1D-07D0-4C6F-AF13-0DF059448C12 - 5608101559624857"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)1, ((anonymous namespace)::HaveNew)1, (CrashIfDeallocating)0&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "327"
+                  endingLineNumber = "327"
+                  offsetFromSymbolStart = "231">
+               </Location>
+               <Location
+                  uuid = "8ACD1A1D-07D0-4C6F-AF13-0DF059448C12 - 5608101559624857"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)1, ((anonymous namespace)::HaveNew)0, (CrashIfDeallocating)0&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "327"
+                  endingLineNumber = "327"
+                  offsetFromSymbolStart = "171">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AB78849-1DFF-4EF9-9885-407F7FC52EA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../runtime/NSObject.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "346"
+            endingLineNumber = "346"
+            landmarkName = "storeWeak(location, newObj)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "4AB78849-1DFF-4EF9-9885-407F7FC52EA4 - 5f147e9127396e54"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)1, ((anonymous namespace)::HaveNew)1, (CrashIfDeallocating)1&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "349"
+                  endingLineNumber = "349"
+                  offsetFromSymbolStart = "347">
+               </Location>
+               <Location
+                  uuid = "4AB78849-1DFF-4EF9-9885-407F7FC52EA4 - 5608101559624857"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)1, ((anonymous namespace)::HaveNew)1, (CrashIfDeallocating)0&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "349"
+                  endingLineNumber = "349"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "4AB78849-1DFF-4EF9-9885-407F7FC52EA4 - 5f147e9127396e54"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)0, ((anonymous namespace)::HaveNew)1, (CrashIfDeallocating)1&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "349"
+                  endingLineNumber = "349"
+                  offsetFromSymbolStart = "259">
+               </Location>
+               <Location
+                  uuid = "4AB78849-1DFF-4EF9-9885-407F7FC52EA4 - 5608101559624857"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)0, ((anonymous namespace)::HaveNew)1, (CrashIfDeallocating)0&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "349"
+                  endingLineNumber = "349"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "4AB78849-1DFF-4EF9-9885-407F7FC52EA4 - 5608101559624857"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)1, ((anonymous namespace)::HaveNew)0, (CrashIfDeallocating)0&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "349"
+                  endingLineNumber = "349"
+                  offsetFromSymbolStart = "195">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23BC28F0-8D28-4CD5-97B6-B763CD1B6BD0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../runtime/NSObject.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "351"
+            endingLineNumber = "351"
+            landmarkName = "storeWeak(location, newObj)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "23BC28F0-8D28-4CD5-97B6-B763CD1B6BD0 - 5f147e9127396e54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)1, ((anonymous namespace)::HaveNew)1, (CrashIfDeallocating)1&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "351"
+                  endingLineNumber = "351"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "23BC28F0-8D28-4CD5-97B6-B763CD1B6BD0 - 5608101559624857"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)1, ((anonymous namespace)::HaveNew)1, (CrashIfDeallocating)0&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "351"
+                  endingLineNumber = "351"
+                  offsetFromSymbolStart = "357">
+               </Location>
+               <Location
+                  uuid = "23BC28F0-8D28-4CD5-97B6-B763CD1B6BD0 - 5f147e9127396e54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)0, ((anonymous namespace)::HaveNew)1, (CrashIfDeallocating)1&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "351"
+                  endingLineNumber = "351"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "23BC28F0-8D28-4CD5-97B6-B763CD1B6BD0 - 5608101559624857"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)0, ((anonymous namespace)::HaveNew)1, (CrashIfDeallocating)0&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "351"
+                  endingLineNumber = "351"
+                  offsetFromSymbolStart = "277">
+               </Location>
+               <Location
+                  uuid = "23BC28F0-8D28-4CD5-97B6-B763CD1B6BD0 - 5608101559624857"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)1, ((anonymous namespace)::HaveNew)0, (CrashIfDeallocating)0&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "351"
+                  endingLineNumber = "351"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45320C9B-3B50-4FFA-9692-32F3AC40DD5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../objc-debug/main.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3B8F17E-0766-4042-AA4F-1776B5972659"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../objc-debug/main.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81117FEA-5DA9-4376-9C79-822ACF5028C9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../objc-debug/main.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9F56844-F3A2-4D3A-B137-80F31AEDEF3B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../runtime/NSObject.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "332"
+            endingLineNumber = "332"
+            landmarkName = "storeWeak(location, newObj)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "B9F56844-F3A2-4D3A-B137-80F31AEDEF3B - 5f147e9127396e54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)1, ((anonymous namespace)::HaveNew)1, (CrashIfDeallocating)1&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "332"
+                  endingLineNumber = "332"
+                  offsetFromSymbolStart = "295">
+               </Location>
+               <Location
+                  uuid = "B9F56844-F3A2-4D3A-B137-80F31AEDEF3B - 5608101559624857"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)1, ((anonymous namespace)::HaveNew)1, (CrashIfDeallocating)0&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "332"
+                  endingLineNumber = "332"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "B9F56844-F3A2-4D3A-B137-80F31AEDEF3B - 5f147e9127396e54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)0, ((anonymous namespace)::HaveNew)1, (CrashIfDeallocating)1&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "332"
+                  endingLineNumber = "332"
+                  offsetFromSymbolStart = "207">
+               </Location>
+               <Location
+                  uuid = "B9F56844-F3A2-4D3A-B137-80F31AEDEF3B - 5608101559624857"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_object* storeWeak&lt;((anonymous namespace)::HaveOld)0, ((anonymous namespace)::HaveNew)1, (CrashIfDeallocating)0&gt;(objc_object**, objc_object*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuyanchi/Desktop/%E7%94%A8%E5%88%B0%E7%9A%84%E6%BA%90%E7%A0%81/objc4_debug-master/objc4-756.2/objc4-756.2/runtime/NSObject.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "332"
+                  endingLineNumber = "332"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
